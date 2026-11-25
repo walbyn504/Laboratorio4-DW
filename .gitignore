@@ -1,0 +1,2 @@
+# El CSV sin comprimir pesa 349 MB y no cabe en GitHub; se sube la version .xz
+*.csv
